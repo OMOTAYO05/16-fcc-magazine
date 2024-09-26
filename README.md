@@ -9,17 +9,17 @@ Additional description of the project and its features.
 ## Built With
 
 - HTML5,
-   - `img`
-   - `hr`
-   - `section`
-   - `header`
-   - `main`
+  - `img`
+  - `hr`
+  - `section`
+  - `header`
+  - `main`
 - CSS,
-   - `font-size`
-   - `display`
-   - `align-items`
-   - `grid-items`
-   - `gap`
+  - `font-size`
+  - `display`
+  - `align-items`
+  - `grid-items`
+  - `gap`
 - Linters
   - [Prettier](https://prettier.io/),
   - [Stylelint](https://stylelint.io/),
@@ -30,6 +30,7 @@ Additional description of the project and its features.
 [Live Demo Link](https://livedemo.com)
 
 ## Deployment link
+
 [Deployment-link](https://vercel.com/onikosi-omotayo-eniolas-projects/16-fcc-magazine)
 
 ### Development (Running locally)
