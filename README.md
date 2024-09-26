@@ -1,27 +1,43 @@
-# Project Name
+# 16-FCC-Magazine
 
-> One paragraph statement about the project.
+> This is a fcc project built by HTML and css to learn css grid .
 
-![screenshot](./app_screenshot.png)
+![fcc-16-magazine](image.png)
 
 Additional description of the project and its features.
 
 ## Built With
 
-- Major languages,
-- frameworks,
-- technologies used
+- HTML5,
+   - `img`
+   - `hr`
+   - `section`
+   - `header`
+   - `main`
+- CSS,
+   - `font-size`
+   - `display`
+   - `align-items`
+   - `grid-items`
+   - `gap`
+- Linters
+  - [Prettier](https://prettier.io/),
+  - [Stylelint](https://stylelint.io/),
+- Github Action
 
 ## Live Demo
 
 [Live Demo Link](https://livedemo.com)
+
+## Deployment link
+[Deployment-link](https://vercel.com/onikosi-omotayo-eniolas-projects/16-fcc-magazine)
 
 ### Development (Running locally)
 
 - Clone the project
 
 ```bash
-git clone https://github.com/bolah2009/html-css-template.git
+git clone https://github.com/OMOTAYO05/html-css-template.git
 
 ```
 
